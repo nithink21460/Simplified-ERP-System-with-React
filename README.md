@@ -6,7 +6,7 @@ Table of Contents
 1. Installation
 2. Usage
 3. Features
-4. Screenshots   
+4. Screenshots
 
 
 1. Installation
