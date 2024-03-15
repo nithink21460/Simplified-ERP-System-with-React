@@ -1,4 +1,5 @@
-ERP System with React
+ERP System with React:
+
 This project is an ERP (Enterprise Resource Planning) system built with React. It includes features for managing products, orders, and a calendar view for tracking orders based on their expected delivery dates.
 
 Table of Contents
