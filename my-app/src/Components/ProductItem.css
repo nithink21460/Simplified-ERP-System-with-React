@@ -1,0 +1,52 @@
+/* ProductItem.css */
+
+.product-item {
+    
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+  }
+  
+  .product-details {
+    flex: 2;
+    font-size: 20px;
+  }
+  
+  .product-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .product-buttons button {
+    margin-left: 5px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .product-buttons button.edit {
+    background-color: #017afc;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+    transition: background-color 0.1s ease;
+  }
+
+  .product-buttons button.edit:hover {
+    background-color: #017afc91;;
+  }
+  
+  .product-buttons button.delete {
+    background-color: #dc3545;
+    color: #fff;
+    font-size: 20px;
+    transition: background-color 0.1s ease;
+  }
+
+  .product-buttons button.delete:hover {
+    background-color: #dc3546a4;
+  }
+  

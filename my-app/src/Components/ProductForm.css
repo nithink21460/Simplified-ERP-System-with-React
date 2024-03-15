@@ -1,0 +1,24 @@
+/* ProductForm.css */
+
+  .input {
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.767);
+  }
+  
+  .thisButton {
+    padding: 3px 10px;
+    background-color: #07bd16;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.1s ease;
+    cursor: pointer;
+  }
+
+  .thisButton:hover {
+    background-color: rgba(28, 211, 28, 0.685);
+  }
+  

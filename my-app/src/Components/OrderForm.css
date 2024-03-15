@@ -1,0 +1,33 @@
+/* OrderForm.css */
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-input {
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.767);
+  }
+  
+  .form-input[type="date"] {
+    padding: 5px;
+  }
+  
+  .form-submit {
+    padding: 3px 10px;
+    background-color: #07bd16;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.1s ease;
+    cursor: pointer;
+  }
+  
+  .form-submit:hover {
+    background-color: rgba(28, 211, 28, 0.685);
+  }
+  
