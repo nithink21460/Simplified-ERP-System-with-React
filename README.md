@@ -5,16 +5,19 @@ Table of Contents
 1. Installation
 2. Usage
 3. Features
-4. Screenshots
-   
+4. Screenshots   
+
+
 1. Installation
 a. Clone the repository: git clone <repository-url>
 b. Navigate to the project directory:cd my-app
 c. Install dependencies: npm install
 
+
 2. Usage
 To start the development server and view the project: npm start
 The application will be running at http://localhost:3000.
+
 
 3. Features
 a. Products Management
@@ -38,6 +41,7 @@ The Calendar page provides a calendar view for tracking orders based on their ex
 
 i. View Orders on Calendar: Displays orders on their expected delivery dates.
 ii. Click on Date: Users can click on a date to view all orders due for delivery on that day.
+
 
 4. Screenshots
 a. Dashboard Page:
