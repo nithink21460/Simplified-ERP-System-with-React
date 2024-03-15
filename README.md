@@ -1,26 +1,26 @@
-ERP System with React:
+**ERP System with React:**
 
 This project is an ERP (Enterprise Resource Planning) system built with React. It includes features for managing products, orders, and a calendar view for tracking orders based on their expected delivery dates.
 
-Table of Contents
+**Table of Contents**
 1. Installation
 2. Usage
 3. Features
 4. Screenshots
 
 
-1. Installation
+**1. Installation**
 a. Clone the repository: git clone <repository-url>
 b. Navigate to the project directory:cd my-app
 c. Install dependencies: npm install
 
 
-2. Usage
+**2. Usage**
 To start the development server and view the project: npm start
 The application will be running at http://localhost:3000.
 
 
-3. Features
+**3. Features**
 a. Products Management
 The Products page allows users to view, add, edit, and delete products.
 
@@ -44,7 +44,7 @@ i. View Orders on Calendar: Displays orders on their expected delivery dates.
 ii. Click on Date: Users can click on a date to view all orders due for delivery on that day.
 
 
-4. Screenshots
+**4. Screenshots**
 a. Dashboard Page:
 ![Dashboard](https://github.com/nithink21460/Simplified-ERP-System-with-React/assets/96772933/745f851e-057b-4b82-92c3-29c442826890)
 
