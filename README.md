@@ -11,17 +11,21 @@ This project is an ERP (Enterprise Resource Planning) system built with React. I
 
 **1. Installation**
 a. Clone the repository: git clone <repository-url>
+
 b. Navigate to the project directory:cd my-app
+
 c. Install dependencies: npm install
 
 
 **2. Usage**
 To start the development server and view the project: npm start
+
 The application will be running at http://localhost:3000.
 
 
 **3. Features**
 a. Products Management
+
 The Products page allows users to view, add, edit, and delete products.
 
 i. View Products: Displays a list of all products with details such as name, description, and price.
